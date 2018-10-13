@@ -1,2 +1,2 @@
 # hometown-map
-Map of Elk Grove, CA
+Map of San Francisco, CA
